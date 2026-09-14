@@ -1,6 +1,6 @@
 [user]
-	name  = monte
-	email = dschp@dzy.me
+	name  = ryron
+	email = ryron@dzy.me
 
 [alias]
 	serve = !git daemon --reuseaddr --verbose --base-path=. --export-all ./.git
